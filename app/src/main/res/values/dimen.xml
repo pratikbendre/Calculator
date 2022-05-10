@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    rounded corners-->
+    <dimen name="roundedcorners">7dp</dimen>
+    <dimen name="maxroundedcorners">100dp</dimen>
+
+    <!--    margins-->
+    <dimen name="default_extrasmall_margin">5dp</dimen>
+    <dimen name="default_small_margin">10dp</dimen>
+    <dimen name="default_left_margin">20dp</dimen>
+    <dimen name="default_right_margin">20dp</dimen>
+    <dimen name="default_top_margin">20dp</dimen>
+    <dimen name="default_bottom_margin">20dp</dimen>
+    <dimen name="default_large_margin">35dp</dimen>
+
+    <!--paddings -->
+    <dimen name="default_left_padding">20dp</dimen>
+    <dimen name="default_right_padding">20dp</dimen>
+    <dimen name="default_top_padding">20dp</dimen>
+    <dimen name="default_bottom_padding">20dp</dimen>
+    <dimen name="default_buttonpadding">14dp</dimen>
+    <dimen name="default_button_smallpadding">7dp</dimen>
+
+
+    <!--    textsizes-->
+    <dimen name="ExtendedTitle">40sp</dimen>
+    <dimen name="ExtendTitle">30sp</dimen>
+    <dimen name="DialogTitle">20sp</dimen>
+    <dimen name="Title">19sp</dimen>
+    <dimen name="MainList">18sp</dimen>
+    <dimen name="InputText">18sp</dimen>
+    <dimen name="InputTextSmall">16sp</dimen>
+    <dimen name="TextButton">17sp</dimen>
+    <dimen name="BodyDescription">16sp</dimen>
+    <dimen name="RaisedButton">15sp</dimen>
+    <dimen name="SubHeader">14sp</dimen>
+    <dimen name="SubList">13sp</dimen>
+    <dimen name="spacedlineheight">25dp</dimen>
+
+    <dimen name="calcButtonTextSize">25sp</dimen>
+    <!--    layout dimensions-->
+    <dimen name="topbarheight">50dp</dimen>
+    <dimen name="profilesizecircular">40dp</dimen>
+    <dimen name="profilesizecircularLarge">50dp</dimen>
+    <dimen name="profilesize">115dp</dimen>
+    <dimen name="searchbarheight">80dp</dimen>
+    <dimen name="settingsUI">80dp</dimen>
+    <dimen name="bottomnavigationiconsize">30dp</dimen>
+    <dimen name="sticker_pack_details_image_size">65dp</dimen>
+    <dimen name="sticker_pack_details_image_padding">8dp</dimen>
+
+    <!--    extras-->
+    <dimen name="grid_expected_size">120dp</dimen>
+    <dimen name="memedrop_circlesize">50dp</dimen>
+    <dimen name="recycler_spacing">5dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>

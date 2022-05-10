@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="60dp"
+    android:layout_marginTop="@dimen/default_small_margin"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginRight="@dimen/default_right_margin"
+            android:weightSum="1">
+            <FrameLayout
+                android:paddingTop="@dimen/default_extrasmall_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/eqn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/SubList"
+                    android:maxLines="2"
+                    android:minLines="1"
+                    android:layout_gravity="right"
+                    android:textColor="@color/white"
+                    android:text="Eqn"/>
+            </FrameLayout>
+            <FrameLayout
+                android:paddingTop="@dimen/default_extrasmall_margin"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/sum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    style="@style/Title"
+                    android:maxLines="2"
+                    android:minLines="1"
+                    android:layout_gravity="right"
+                    android:textColor="@color/white"
+                    android:text="Sum"/>
+
+            </FrameLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="0.5dp"
+                android:layout_gravity="center_vertical"
+                android:alpha="0.25"
+                android:layout_marginTop="@dimen/default_extrasmall_margin"
+                android:background="@color/white" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

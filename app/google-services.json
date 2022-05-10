@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903584425638",
+    "project_id": "calculator-edeb5",
+    "storage_bucket": "calculator-edeb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903584425638:android:6fc68f262dd566cd61b667",
+        "android_client_info": {
+          "package_name": "com.android.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903584425638-b97fk1j7l4hhtri6c1s1k403va596iku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOVUtgX9ZEz-5-VMPYCC40r28_1YPh58I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903584425638-b97fk1j7l4hhtri6c1s1k403va596iku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
